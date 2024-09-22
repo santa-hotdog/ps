@@ -1,7 +1,7 @@
 #include <bits//stdc++.h>
 using namespace std;
 
-vector<int> a;;
+vector<int> a;
 vector<int> dp;
 
 int main() {
